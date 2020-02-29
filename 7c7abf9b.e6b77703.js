@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{140:function(o){o.exports=JSON.parse('{"allTagsPath":"/CoordinateTransformation/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/CoordinateTransformation/blog/tags/hello"}')}}]);
